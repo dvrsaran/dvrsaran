@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvrsaran
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Open-Source-Project 
+- 💞️ I’m looking to collaborate on Open-Source-Projects 
 - 📫 How to reach me dvrsaran@gmail.com
 
 <!---
